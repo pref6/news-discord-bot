@@ -12,6 +12,9 @@
 Установите в словаре ```params``` ваш API от NewsAPI и установите нужную страну.
 
 **Ссылки на сервисы:**
+
 https://newsapi.org
+
 https://platform.openai.com/docs/api-reference
+
 https://discord.com/developers/docs/intro

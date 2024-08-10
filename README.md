@@ -31,5 +31,8 @@ https://platform.openai.com/docs/api-reference
 https://discord.com/developers/docs/intro
 
 **Использование:**
+
 Запустите бота:
+```
 python3 news-discord-bot.py
+```
